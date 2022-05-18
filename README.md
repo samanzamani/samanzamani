@@ -1,11 +1,15 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=samanzamani&no-frame=true)](https://github.com/samanzamani)
 
 <div align="center" width="100%">
-
   
 [![Saman Zamani StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=2843041)](https://stackoverflow.com/users/2843041/saman)
 
-  </div>
+</div>
+
+<div align="center" width="100%">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samanzamani&no-frame=true)](https://github.com/samanzamani)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
